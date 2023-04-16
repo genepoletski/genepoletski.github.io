@@ -17,7 +17,7 @@ What about <b>what</b>? Ok, my vision of <b>what</b>:
 - It is built as React Native first
 - It is a monorepo
 
-Nothing unusual, and because you are reading this, you probably already know that there are dozens, if not hundreds or thousands, of similar posts and articles. Will it be any different and more useful for you and me this time? Let's see. I hope so.
+Nothing unusual, and because you are reading this, you probably already know that there are dozens, if not hundreds or thousands, of similar posts and articles. Will it be any different and more useful for you and me this time? I hope so.
 
 <br />
 <hr />
