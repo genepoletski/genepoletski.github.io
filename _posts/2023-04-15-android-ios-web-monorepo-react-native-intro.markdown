@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Monorepo with React Native. Introduction"
-date:   2023-04-15 16:00:00 +1200
+group_title: Android, iOS and Web App Monorepo with React Native
+title: Introduction
+date: 2023-04-15 16:00:00 +1200
 category: Software Developement
+permalink: /:categories/:slug
 ---
 
 ## Why and what
@@ -20,8 +22,6 @@ What about <b>what</b>? Ok, my vision of <b>what</b>:
 Nothing unusual, and because you are reading this, you probably already know that there are dozens, if not hundreds or thousands, of similar posts and articles. Will it be any different and more useful for you and me this time? I hope so.
 
 <br />
-<hr />
-<br />
-(*) subjectively
-
-(**) do I just want something new or there is really something wrong with what I did?
+{% include divider.html %}
+<sub>(*) subjectively</sub>
+<sub>(**) do I just want something new or there is really something wrong with what I did?</sub>

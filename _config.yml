@@ -19,13 +19,19 @@
 # in the templates via {{ site.myvariable }}.
 
 title: genepoletski
-email: your-email@example.com
+email: web.developer.poletski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   gene poletski website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: genepoletski
 github_username:  genepoletski
+
+# Collection
+collections:
+  android-ios-web-monorepo-react-native:
+    output: true
+    permalink: /:collection/:name
 
 # Build settings
 theme: minima
