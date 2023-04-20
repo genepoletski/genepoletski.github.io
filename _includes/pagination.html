@@ -1,0 +1,8 @@
+<div class="pagination">
+  {% if page.previous %}
+    <a class="prev" href="{{ page.previous.url }}">&laquo;&nbsp;{{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next %}
+    <a class="next" href="{{ page.next.url }}">{{ page.next.title }}&nbsp;&raquo;</a>
+  {% endif %}
+</div>
