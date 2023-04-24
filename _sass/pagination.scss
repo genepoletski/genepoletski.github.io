@@ -1,0 +1,11 @@
+.pagination {
+  display: flex;
+}
+
+.pagination__link--prev {
+  margin-right: auto;
+}
+
+.pagination__link--next {
+  margin-left: auto;
+}
