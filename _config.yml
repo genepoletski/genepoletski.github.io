@@ -27,12 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: genepoletski
 github_username:  genepoletski
 
-# Collection
-collections:
-  android-ios-web-monorepo-react-native:
-    output: true
-    permalink: /:collection/:name
-
 # Build settings
 theme: minima
 plugins:
